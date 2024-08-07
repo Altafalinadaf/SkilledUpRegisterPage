@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\skilledUp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4150693379.index
+3458614714.index
+4157410656.index
+2552186238.index
+3964437886.index
+0.index
+4062396337.index
